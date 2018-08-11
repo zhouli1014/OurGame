@@ -1,2 +1,2 @@
 # OurGame
-Seize the day, do whatever you want!!!
+Seize the day, do whatever we want!!!
